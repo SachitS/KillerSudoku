@@ -1,0 +1,3 @@
+﻿Killer Sudoku rules:
+Each element should be between 1 and 9, inclusive.
+In each row, column, box, cage there should be only 1 instance of the element.
